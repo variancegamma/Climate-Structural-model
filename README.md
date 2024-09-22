@@ -1,2 +1,2 @@
 # Climate-Structural-model
-Burchan abi ve pelinle calisma
+Climate Risk study based on Merton type Structural Credit Risk model usung VGamma process
